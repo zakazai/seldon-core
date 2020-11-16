@@ -4,7 +4,7 @@ This Go project replaces the Seldon Java Engine.  It is presently in development
 
 ## Functionality
 
-The focus is to provide a smaller more efficient graph orchestror.
+The focus is to provide a smaller more efficient graph orchestrator.
 
  * REST and gRPC for Seldon and Tensorflow protocols. Easily extendable to other protocols.
  * Logging of request and or response payloads to arbitrary URLs with CloudEvents
